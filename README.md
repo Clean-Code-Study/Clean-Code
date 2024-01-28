@@ -1,5 +1,5 @@
 # Clean-Code-Study
-클린 코드 - Robert C.Martin
+클린 코드 - Robert C.Martin<br>
 Clean Code를 읽고 토론하며 정리하는 스터디<br><br>
 
 # Member
